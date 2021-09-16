@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
- <a href="https://www.linkedin.com/in/HumayunBee/" target="_blank">
-<img src=https://img.shields.io/youtube/channel/subscribers/UCq9Ep9vUItErO3satbHxqxg?style=social alt=linkedin style="margin-bottom: 5px;" />
+ <a href="https://www.youtube.com/channel/UCq9Ep9vUItErO3satbHxqxg" target="_blank">
+<img src=https://img.shields.io/youtube/channel/subscribers/UCq9Ep9vUItErO3satbHxqxg?style=social=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 </div>
