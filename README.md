@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HumayunBee
+- 👋 Hi, I’m Md. Humayun Farid
 - 👀 I’m interested in ... Web Development & Android Apps Development
-- 🌱 I’m currently learning ... Java ,PHP , Kotlin , XML 
-- 💞️ I’m looking to collaborate on ... Plutter
+- 🌱 I’m currently learning ... Java ,PHP , Laravel
+- 💞️ I’m looking to collaborate on ... Flutter
 - 📫 How to reach me ... search me on Google HumayunBee
 
 <!---
