@@ -49,7 +49,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/humayunbee/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/humayunbee/humayunbee.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/humayunbee/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/humayunbee/Best-README-Template/network/members
