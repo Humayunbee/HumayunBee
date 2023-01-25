@@ -123,7 +123,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Studying in this moment:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,androidstudio,dart,flutter,github,php,laravel" />
+  </a>
+</p>
 <br>
 <br>
 <br>
