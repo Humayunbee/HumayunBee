@@ -50,7 +50,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/humayunbee/humayunbee.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/humayunbee/graphs/contributors
+[contributors-url]: https://github.com/humayunbee/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/humayunbee/humayunbee.svg?style=for-the-badge
 [forks-url]: https://github.com/humayunbee/humayunbee/network/members
 [stars-shield]: https://img.shields.io/github/stars/humayunbee/humayunbee.svg?style=for-the-badge
