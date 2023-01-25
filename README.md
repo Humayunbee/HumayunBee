@@ -24,3 +24,15 @@ You can click the Preview link to take a look at your changes.
 <img src=https://img.shields.io/youtube/channel/subscribers/UCq9Ep9vUItErO3satbHxqxg?style=for-the-badge=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 </div>
+
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
