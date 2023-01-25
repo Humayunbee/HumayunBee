@@ -121,7 +121,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,androidstudio,dart,flutter,github,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,java,dart,flutter,github,php,laravel" />
   </a>
 </p>
 <br>
