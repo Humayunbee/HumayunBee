@@ -105,14 +105,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Software and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ae,androidstudio,vscode,xd,ai" /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=ps,ae,androidstudio,vscode,xd,ai" />  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   </a>
 </p>
 <br>
 
-<p align="left">
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a> 
-</p>
 
 
 
