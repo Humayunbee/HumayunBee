@@ -43,11 +43,6 @@ You can click the Preview link to take a look at your changes.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
@@ -126,15 +121,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <br>
 <br>
 
-<!-- ./STAT -->
-<div align="center">
-<img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="mexuvo github stats" />
-<img width="42%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mexuvo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=css,html,scss,vue,shell,php,hack" />
-</div>
-<!-- ./STATS -->
-<div>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=mexuvo&theme=react-dark&hide_border=true&area=true" />
-</div>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
