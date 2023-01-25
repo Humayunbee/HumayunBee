@@ -1,3 +1,9 @@
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Humayun&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Md.+Humayun+Farid;I+SPECIALIZE+===+FRONTEND+DEVELOPMENT;I+EXPERTISE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Md. Humayun Farid
 - 👀 I’m interested in ... Web Development & Android Apps Development
 - 🌱 I’m currently learning ... Java ,PHP , Laravel
@@ -79,10 +85,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [JQuery-url]: https://jquery.com 
 
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Humayun&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Md.+Humayun+Farid;I+SPECIALIZE+===+FRONTEND+DEVELOPMENT;I+EXPERTISE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
 ## Main skills:
 
