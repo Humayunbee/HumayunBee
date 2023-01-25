@@ -117,6 +117,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=humayunbee&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="humayunbee" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=humayunbee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" alt="humayunbee" /></p>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{humayunbee}/count.svg" /></p>
