@@ -50,15 +50,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/humayunbee/humayunbee.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/humayunbee/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/humayunbee/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/humayunbee/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/humayunbee/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/humayunbee/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/humayunbee/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/humayunbee/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/humayunbee/Best-README-Template/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/othneildrew/humayunbee/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/humayunbee/humayunbee.svg?style=for-the-badge
+[forks-url]: https://github.com/humayunbee/humayunbee/network/members
+[stars-shield]: https://img.shields.io/github/stars/humayunbee/humayunbee.svg?style=for-the-badge
+[stars-url]: https://github.com/humayunbee/humayunbee/stargazers
+[issues-shield]: https://img.shields.io/github/issues/humayunbee/humayunbee.svg?style=for-the-badge
+[issues-url]: https://github.com/humayunbee/humayunbee/issues
+[license-shield]: https://img.shields.io/github/license/humayunbee/humayunbee.svg?style=for-the-badge
+[license-url]: https://github.com/humayunbee/humayunbee/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/humayunbee
 [product-screenshot]: images/screenshot.png
