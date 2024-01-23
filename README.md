@@ -5,10 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Md.+Humayun+Farid;I+SPECIALIZE+===+FRONTEND+DEVELOPMENT;I+EXPERTISE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Md. Humayun Farid
-- 👀 I’m interested in ... Web Development & Android Apps Development
-- 🌱 I’m currently learning ... Java ,PHP , Laravel
+- 👀 I’m Working with ... Web Development & Mobile Apps Development
+- 🌱 I’m currently learning ... PHP , Laravel, Flutter
 - 💞️ I’m looking to collaborate on ... Flutter
-- 📫 How to reach me ... search me on Google HumayunBee
+- 📫 How to reach me ... search me on Google Md. Humayun Farid
+
+- <img src="commit_snake.svg">
+
 
 <!---
 HumayunBee/HumayunBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="left">
-<a href="https://github.com/HumayunBee" target="_blank">
+<a href="https://github.com/humayunbee" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/HumayunBee/" target="_blank">
