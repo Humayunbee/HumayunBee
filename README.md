@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on ... Flutter
 - 📫 How to reach me ... search me on Google Md. Humayun Farid
 
-- <img src="commit_snake.svg">
+ <img src="commit_snake.svg"/>
 
 
 <!---
